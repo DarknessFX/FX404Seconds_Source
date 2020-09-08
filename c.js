@@ -86,6 +86,7 @@ const singlePlayer = () => {
   Menu.style.display = "none";
   render.postMessage({type: "state", state: 5});
   render.postMessage({type: "game", player: _player});
+  sendSize();
 };
 
 (function () {
