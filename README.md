@@ -1,6 +1,8 @@
 # FX404Seconds_Source
 
-js13K 2020 GameJam Source code. Awarded with 5th place in Server Category.
+js13K 2020 GameJam Source code. 
+
+🏆 Awarded with 5th place in Server Category.
 
 Browsers: Chrome and Opera, desktop and mobile.
 
